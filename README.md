@@ -2,27 +2,15 @@
 
 ```python
 samuel = {
-    "perfil": [
-        "Analista de Datos",
-        "Marketing Digital",
-        "Social Listening"
-    ],
-    "tecnologias": [
-        "Python",
-        "Excel",
-        "Power BI",
-        "SQL",
-        "Brandwatch",
-        "Git",
-        "GitHub"
-    ],
+    "rol": "Analista de Datos | Marketing Digital | Social Listening",
+    "stack": ["Python", "Excel", "Power BI", "SQL", "Brandwatch", "Git"],
     "enfoque": "Automatización, analítica y productividad"
 }
 ```
 
-Profesional informático y entusiasta de la programación, enfocado en la creación de scripts para automatizar procesos, analizar información y optimizar tareas repetitivas.
+Profesional informático y entusiasta de la programación, enfocado en crear scripts para automatizar procesos, analizar información y optimizar tareas repetitivas.
 
-Mi objetivo es transformar datos y conversaciones digitales en insights claros que faciliten la toma de decisiones estratégicas.
+Transformo datos y conversaciones digitales en hallazgos claros que facilitan la toma de decisiones estratégicas.
 
 ---
 
