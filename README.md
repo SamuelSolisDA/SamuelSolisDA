@@ -1,53 +1,28 @@
-<div align="center">
-
-# Hola, soy Samuel Solís 👋
-
-### Analista de Datos · Marketing Digital · Social Listening
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Transformando+datos+en+decisiones;Automatizando+procesos+con+Python;Analizando+conversaciones+digitales;Creando+soluciones+basadas+en+datos"
-/>
-
-</div>
-
----
-
 ## 👨‍💻 Sobre mí
 
 ```python
-class SamuelSolis:
-
-    def __init__(self):
-        self.rol = [
-            "Analista de Datos",
-            "Marketing Digital",
-            "Social Listening"
-        ]
-
-        self.herramientas = [
-            "Python",
-            "Excel",
-            "Power BI",
-            "SQL",
-            "Brandwatch",
-            "Git",
-            "GitHub"
-        ]
-
-        self.enfoque = [
-            "Automatización de procesos",
-            "Analítica de datos",
-            "Visualización de información",
-            "Productividad mediante scripts"
-        ]
-
-    def objetivo(self):
-        return "Transformar datos en información útil para tomar decisiones"
+samuel = {
+    "perfil": [
+        "Analista de Datos",
+        "Marketing Digital",
+        "Social Listening"
+    ],
+    "tecnologias": [
+        "Python",
+        "Excel",
+        "Power BI",
+        "SQL",
+        "Brandwatch",
+        "Git",
+        "GitHub"
+    ],
+    "enfoque": "Automatización, analítica y productividad"
+}
 ```
 
-Profesional informático y entusiasta de la programación, especializado en la creación de scripts para productividad, automatización, analítica y procesamiento de bases de datos.
+Profesional informático y entusiasta de la programación, enfocado en la creación de scripts para automatizar procesos, analizar información y optimizar tareas repetitivas.
 
-Me interesa transformar grandes volúmenes de información y conversaciones digitales en insights claros que faciliten la toma de decisiones.
+Mi objetivo es transformar datos y conversaciones digitales en insights claros que faciliten la toma de decisiones estratégicas.
 
 ---
 
