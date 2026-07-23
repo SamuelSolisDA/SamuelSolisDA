@@ -43,3 +43,46 @@ class SamuelSolis:
 
     def objetivo(self):
         return "Transformar datos en información útil para tomar decisiones"
+Tecnologías y herramientas
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Brandwatch-121212?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Social%20Listening-7C3AED?style=for-the-badge" /> </div>
+
+Áreas de trabajo
+Análisis exploratorio y limpieza de datos.
+Automatización de procesos mediante Python.
+Desarrollo de consultas y transformación de bases de datos.
+Creación de dashboards en Power BI y Excel.
+Social listening y análisis de conversaciones digitales.
+Generación de insights para marketing y toma de decisiones.
+
+Estadísticas de GitHub
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamuelSolisDA&show_icons=true&theme=github_dark&hide_border=true&locale=es" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSolisDA&layout=compact&theme=github_dark&hide_border=true&locale=es" />
+
+</div> <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SamuelSolisDA&theme=github-dark-blue&hide_border=true&locale=es" />
+
+</div>
+
+Actividad
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelSolisDA&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+Idiomas
+Idioma	Nivel
+Español	Nativo
+Inglés	Intermedio
+
+<div align="center">
+Los datos cuentan historias. Mi trabajo es convertirlas en decisiones.
+<img src="https://komarev.com/ghpvc/?username=SamuelSolisDA&style=for-the-badge&color=0e75b6&label=VISITAS+AL+PERFIL" /> </div> ```
