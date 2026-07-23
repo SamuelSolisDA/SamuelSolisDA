@@ -1,12 +1,8 @@
 ## 👨‍💻 Sobre mí
 
-```python
-samuel = {
-    "rol": "Analista de Datos | Marketing Digital | Social Listening",
-    "stack": ["Python", "Excel", "Power BI", "SQL", "Brandwatch", "Git"],
-    "enfoque": "Automatización, analítica y productividad"
-}
-```
+> **👤 Rol:** Analista de Datos | Marketing Digital | Social Listening  
+> **🛠️ Stack:** Python · Excel · Power BI · SQL · Brandwatch · Git  
+> **🎯 Enfoque:** Automatización, analítica y productividad
 
 Profesional informático y entusiasta de la programación, enfocado en crear scripts para automatizar procesos, analizar información y optimizar tareas repetitivas.
 
