@@ -49,26 +49,23 @@ Transformo datos y conversaciones digitales en hallazgos claros que facilitan la
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=SamuelSolisDA&show_icons=true&theme=github_dark&hide_border=true&locale=es"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelSolisDA&theme=github_dark"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSolisDA&layout=compact&theme=github_dark&hide_border=true&locale=es"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelSolisDA&theme=github_dark"
 />
 
-</div>
-
-<div align="center">
+<br>
 
 <img
+  width="70%"
   src="https://streak-stats.demolab.com?user=SamuelSolisDA&theme=github-dark-blue&hide_border=true&locale=es"
 />
 
 </div>
-
----
 
 ## 📈 Actividad reciente
 
